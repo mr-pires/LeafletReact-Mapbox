@@ -2,22 +2,28 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installing dependencies
 
-In the project directory, you can run:
+In the project directory, run:
 
-### `npm start`
+#### `npm install leaflet`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Leaflet library\
+[https://www.npmjs.com/package/leaflet](https://www.npmjs.com/package/leaflet).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### `npm install react-leaflet`
 
-### `npm test`
+Leaflet as ReactJS component library\
+[https://www.npmjs.com/package/react-leaflet](https://www.npmjs.com/package/react-leaflet).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+## Add costumized style to your mapbox studio account
+1 - Go to [Mapbox studio](https://studio.mapbox.com).\
+2 - 
+
+
+
+
 
 ### `npm run build`
 
